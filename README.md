@@ -3,6 +3,7 @@
 ## Welcome to my GitHub page! 🤝
 
 ### These are my activities summary:
+<img src="gh-readme-stats.svg" />
 <div align="center">
   <a href="https://github.com/israelss/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=israelss&show_icons=true&theme=gruvbox&include_all_commits=true" />
