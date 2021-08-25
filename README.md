@@ -6,12 +6,12 @@
 
 > _Powered by: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)_
 
-<div align="center">
-  <a href="https://github.com/israelss/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=israelss&show_icons=true&theme=gruvbox&include_all_commits=true" />
+<div >
+  <a href="https://github.com/israelss/">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=israelss&show_icons=true&theme=calm&include_all_commits=true" />
   </a>
-  <a href="https://github.com/israelss/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelss&layout=compact" />
+  <a href="https://github.com/israelss/">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelss&layout=compact&theme=calm" />
   </a>
 </div>
 
