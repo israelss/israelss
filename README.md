@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS Shield" />
   <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" alt="TS-Node Shield" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT Shield" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Shield" />
 </span><br />
 <span>
   <img src="https://img.shields.io/badge/FrontEnd:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="FrontEnd" />
@@ -95,7 +96,7 @@
 </div>
 
 ### 🌎 Where am I now?
-Currently I'm living in Brazil, and learning web development at [Trybe](https://github.com/betrybe).
+Currently I'm living in Brazil, and work at [Fontes Promotora](https://fontespromotora.com.br) as a FullStack Developer.
 
 ### 📚 What I am learning?
 I'm learning [Remix](https://remix.run/) right now, so let's talk about it!
