@@ -99,7 +99,7 @@
 Currently I'm living in Brazil, and work at [Fontes Promotora](https://fontespromotora.com.br) as a FullStack Developer.
 
 ### 📚 What I am learning?
-I'm learning [Remix](https://remix.run/) right now, so let's talk about it!
+I'm learning [Flutter](https://flutter.dev/) right now, so let's talk about it!
 
 If you know about [Qwik](https://qwik.builder.io/), please tell me about it! It is in my W2LNL (_What to learn next list_)!
 
