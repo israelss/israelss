@@ -1,6 +1,6 @@
-# Hello there! 👋
+# Olá! 👋
 
-## Welcome to my GitHub page! 🤝
+## Bem-vindo(a) à minha página no GitHub! 🤝
 
 <p>
   <a target="_blank" href="mailto:israel.santanna@gmail.com">
@@ -17,7 +17,9 @@
   </a>
 </p>
 
-<h3> 🔧 Tech and tools that I know:<h3>
+<a href="https://app.bounties4.com/@/israelss" target="_blank"><img title="bounties4.com/@/israelss" alt="bounties4.com/@/israelss" src="https://storage.googleapis.com/profile_avatar/production/614ed69c-64fe-51a0-8895-26c5110ebd3e/1697678425657_badge.png" width="400" height="400" /></a>
+
+<h3> 🔧 Tecnologias e ferramentas que eu conheço:<h3>
 
 <span>
   <img src="https://img.shields.io/badge/Base:-E6E6E6?style=for-the-badge" alt="Base" />
@@ -82,27 +84,25 @@
   <img src="https://img.shields.io/badge/ANY OTHER TOOL THAT I HAVE TO LEARN HOW TO USE, IF NEEDED TO SOLVE A PROBLEM-FFFF64?style=for-the-badge" alt="LEARNING SKILL" />
 </span>
 
-### 📋 These are my activities summary:
+### 📋 Esse é um resumo das minhas atividades:
 
 > _Powered by: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <div >
   <a href="https://github.com/israelss/">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=israelss&show_icons=true&theme=calm&include_all_commits=true" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=israelss&show_icons=true&theme=calm&include_all_commits=true&locale=pt-br" />
   </a>
   <a href="https://github.com/israelss/">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelss&layout=compact&theme=calm" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelss&layout=compact&theme=calm&locale=pt-br" />
   </a>
 </div>
 
-### 🌎 Where am I now?
-Currently I'm living in Brazil, and work at [Fontes Promotora](https://fontespromotora.com.br) as a FullStack Developer.
+### 🌎 Onde estou agora?
+Atualmente estou morando no Brasil, e trabalho na [ZapVoice](https://zapvoice.com.br/) como Desenvolvedor FullStack.
 
-### 📚 What I am learning?
-I'm learning [Flutter](https://flutter.dev/) right now, so let's talk about it!
+### 📚 O que estou aprendendo?
+Estou aprofundando o conhecimento sobre NestJs/React/Node e iniciando os estudos de Java
 
-If you know about [Qwik](https://qwik.builder.io/), please tell me about it! It is in my W2LNL (_What to learn next list_)!
+Se você sabe algo sobre [Qwik](https://qwik.builder.io/), por favor, conte-me! Qwik está na minha lista "o que aprender em seguida"!
 
-I'm also very excited about React / ES6 / CSS / Tailwind or anything Frontend related (obscure or not) that you may want to show me 👀
-
-### ✅ Below you can see which my best repos are (or at least the ones I'm most proud of 😅) :
+### ✅ Abaixo você pode ver quais são meus melhores repositórios (ou pelo menos os que eu tenho mais orgulho 😅) :
