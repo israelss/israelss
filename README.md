@@ -1,7 +1,7 @@
 # Olá, eu sou o Israel! 👋
 
 **Desenvolvedor Full Stack Pleno** · TypeScript • React • Next.js • Node.js • PostgreSQL  
-📍 Brasil · 💼 [ZapVoice](https://zapvoice.com.br/) (produtos ZapVoice e SendBoss)
+📍 Brasil · 💼 [ZapVoice](https://www.linkedin.com/company/zapvoice/) (produtos ZapVoice e SendBoss)
 
 Construo produtos de atendimento e automação via WhatsApp, do banco de dados à interface.
 
@@ -12,7 +12,7 @@ Construo produtos de atendimento e automação via WhatsApp, do banco de dados �
 <summary>🇺🇸 English</summary>
 
 **Mid-Level Full Stack Developer** · TypeScript • React • Next.js • Node.js • PostgreSQL  
-📍 Brazil · 💼 [ZapVoice](https://zapvoice.com.br/) (ZapVoice and SendBoss products)
+📍 Brazil · 💼 [ZapVoice](https://www.linkedin.com/company/zapvoice/) (ZapVoice and SendBoss products)
 
 I build WhatsApp customer-support and automation products, from the database to the UI.
 
