@@ -1,108 +1,108 @@
-# Olá! 👋
+# Olá, eu sou o Israel! 👋
 
-## Bem-vindo(a) à minha página no GitHub! 🤝
+**Desenvolvedor Full Stack Pleno** · TypeScript • React • Next.js • Node.js • PostgreSQL  
+📍 Brasil · 💼 [ZapVoice](https://zapvoice.com.br/) (produtos ZapVoice e SendBoss)
 
-<p>
-  <a target="_blank" href="mailto:israel.santanna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Shield" />
-  </a>
-  <a target="_blank" href="https://github.com/israelss">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Shield" />
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/israelss">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield"/>
-  </a>
-  <a target="_blank" href="https://www.israelss.dev/">
-    <img src="https://img.shields.io/badge/-My%20Site-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhEAAAIRCAYAAAD0nu8SAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAACUBJREFUeJzt2TGKWlEAhtEkDEz/wBWks7FKayUEppXswCqlC7FM5Q6CbSDgJmzsZi3OFoYPx4vjOQt4/Fy4vA/u18vlcvnCu51Op/Nqtfo7egcA13U8Hn8tFov56B335NvoAQDAfRIRAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEieRg/ges7n8+/RG25tt9v93+/3r6N3QLHZbL5vt9ufo3fc2nw+/zN6A9chIj6R2Ww2G73h1qZpeh69Aappmp4f8d7yeXjOAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJCICAEhEBACQiAgAIBERAEAiIgCAREQAAImIAAASEQEAJE+jB8C9OhwOL6M3FOv1+t9HfduZwGMRERAtl8sfozdEH/bDdCbwWDxnAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACQiAgBIRAQAkIgIACAREQBAIiIAgEREAACJiAAAEhEBACRv2Qsokrqc3hIAAAAASUVORK5CYII=" alt"My website" />
-  </a>
-</p>
+Construo produtos de atendimento e automação via WhatsApp, do banco de dados à interface.
 
-<a href="https://app.bounties4.com/@/israelss" target="_blank"><img title="bounties4.com/@/israelss" alt="bounties4.com/@/israelss" src="https://storage.googleapis.com/profile_avatar/production/614ed69c-64fe-51a0-8895-26c5110ebd3e/1697678425657_badge.png" width="400" height="400" /></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israel.santanna@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israelss)
 
-<h3> 🔧 Tecnologias e ferramentas que eu conheço:<h3>
+<details>
+<summary>🇺🇸 English</summary>
 
-<span>
-  <img src="https://img.shields.io/badge/Base:-E6E6E6?style=for-the-badge" alt="Base" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Shield" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Shield" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Shield" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Shield" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Shield" />
-  <img src="https://img.shields.io/badge/Conventional_Commits-FE5196?style=for-the-badge&logo=ConventionalCommits&logoColor=white" alt="Conventional Commits Shield" />
-</span><br />
-<span>
-  <img src="https://img.shields.io/badge/BackEnd:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="BackEnd" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS Shield" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS Shield" />
-  <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" alt="TS-Node Shield" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT Shield" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Shield" />
-</span><br />
-<span>
-  <img src="https://img.shields.io/badge/FrontEnd:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="FrontEnd" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Shield" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Shield" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Shield" />
-</span><br />
-<span>
-  <img src="https://img.shields.io/badge/FullStack:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="FullStack" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS Shield" />
-  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix Shield" />
-</span><br />
-<span>
-  <img src="https://img.shields.io/badge/Databases:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Databases" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma Shield" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Shield" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Shield" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Shield" />
-</span><br />
-<span>
-  <img src="https://img.shields.io/badge/Styling:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Styling" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Shield" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Shield" />
-</span><br />
-<span>
-  <img src="https://img.shields.io/badge/Testing:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Testing" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest Shield" />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha Shield" />
-  <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai Shield" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white" alt="Vitest Shield" />
-  <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=TestingLibrary&logoColor=white" alt="Testing_Library Shield" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright Shield" />
-</span><br />
-<span>
-  <img src="https://img.shields.io/badge/Other:-E6E6E6?style=for-the-badge&logoColor=F7DF1E" alt="Other" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Shield" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Shield" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON Shield" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite Shield" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Shield" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Shield" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn Shield" />
-</span><br />
-<span>
-  <img src="https://img.shields.io/badge/ANY OTHER TOOL THAT I HAVE TO LEARN HOW TO USE, IF NEEDED TO SOLVE A PROBLEM-FFFF64?style=for-the-badge" alt="LEARNING SKILL" />
-</span>
+**Mid-Level Full Stack Developer** · TypeScript • React • Next.js • Node.js • PostgreSQL  
+📍 Brazil · 💼 [ZapVoice](https://zapvoice.com.br/) (ZapVoice and SendBoss products)
 
-### 📋 Esse é um resumo das minhas atividades:
+I build WhatsApp customer-support and automation products, from the database to the UI.
 
-> _Powered by: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)_
+- Full-stack SaaS products: multi-tenant architecture, authentication, plans and Stripe billing
+- WhatsApp integrations (Meta's official API), webhooks and asynchronous processing
+- Automation with queues, flows and AI agents
+- Browser extensions (React + Vite)
+- Open source: author of two Web Workers libraries, **SimpleWebWorker** and **VueWorker** (archived), with 800+ stars combined on GitHub
 
-<div >
-  <a href="https://github.com/israelss/">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=israelss&show_icons=true&theme=calm&include_all_commits=true&locale=pt-br" />
-  </a>
-  <a href="https://github.com/israelss/">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelss&layout=compact&theme=calm&locale=pt-br" />
-  </a>
-</div>
+The stack is listed in the badges below.
 
-### 🌎 Onde estou agora?
-Atualmente estou morando no Brasil, e trabalho na [ZapVoice](https://zapvoice.com.br/) como Desenvolvedor FullStack.
+</details>
 
-### 📚 O que estou aprendendo?
-Estou aprofundando o conhecimento sobre NestJs/React/Node e iniciando os estudos de Java
+## 🚀 O que eu faço
 
-Se você sabe algo sobre [Qwik](https://qwik.builder.io/), por favor, conte-me! Qwik está na minha lista "o que aprender em seguida"!
+- Produtos SaaS full stack: arquitetura multi-organização, autenticação, planos e cobrança com Stripe
+- Integrações com WhatsApp (API oficial da Meta), webhooks e processamento assíncrono
+- Automação com filas, fluxos e agentes de IA
+- Extensões de navegador (React + Vite)
 
-### ✅ Abaixo você pode ver quais são meus melhores repositórios (ou pelo menos os que eu tenho mais orgulho 😅) :
+## 🔓 Open source
+
+Sou autor de duas bibliotecas que simplificam o uso de Web Workers em JavaScript. Ambas estão arquivadas (sem manutenção ativa), e o código segue disponível como referência.
+
+| Projeto | O que faz | Popularidade |
+|---|---|---|
+| [**vue-worker**](https://github.com/israelss/vue-worker) | Plugin Vue.js para usar web workers de forma simples | ![Stars](https://img.shields.io/github/stars/israelss/vue-worker?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/israelss/vue-worker?style=flat&logo=github) |
+| [**simple-web-worker**](https://github.com/israelss/simple-web-worker) | Utilitário JavaScript que simplifica o uso de web workers | ![Stars](https://img.shields.io/github/stars/israelss/simple-web-worker?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/israelss/simple-web-worker?style=flat&logo=github) |
+
+## 🔧 Stack
+
+### No dia a dia
+
+**Base:**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-FE5196?style=for-the-badge&logo=ConventionalCommits&logoColor=white)
+
+**Front-end:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+**Back-end:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Dados, infra e integrações:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+**Testes:**
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white)
+
+### Também conheço
+
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=TestingLibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+E qualquer outra ferramenta que eu precise aprender para resolver um problema 😉
+
+<!--
+## 🌱 Estudando agora
+- Preencha aqui só com o que você está estudando de verdade
+-->
+
+## 📌 Repositórios fixados
+
+Abaixo ficam os repositórios que fixei no meu perfil 👇
